@@ -1,4 +1,4 @@
-# [My Website](https://joshuakirts.net) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JoshuaKirts/joshuakirts.github.io/blob/master/LICENSE)
+# [My Portfolio](https://joshuakirts.net) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JoshuaKirts/portfolio/blob/master/LICENSE)
 
 ## Frameworks
 
