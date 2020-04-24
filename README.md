@@ -12,14 +12,6 @@
 
 - [Node.js](https://nodejs.org/) - A cross-platform JavaScript runtime enviroment that executes JavaScript code outside of a web browser.
 
-### Possible framework based on React
-
-- [Redux](https://redux.js.org/) - A JavaScript library for managing a application state.
-
-### Possible rendering based on React
-
-- [Next](https://nextjs.org/) - A smaller framework for server-rendered universal JavaScript applications.
-
 ## Changelog
 
 - All notable changes to this document will be documented in [this file](./CHANGELOG)
